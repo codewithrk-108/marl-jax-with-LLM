@@ -1,4 +1,11 @@
-# marl-jax
+# How about the possibility of using LLM knowledge for agents in a Game environment?
+
+## Open the below report link to understand the related work and ideation for the above project :
+
+[LLM-MARL.pdf](https://github.com/user-attachments/files/17944373/LLM-MARL.pdf)
+
+## Follow the below parent repo readme for instructions to install and run : 
+
 JAX library for MARL research
 
 [Demo Video](https://youtu.be/WQVQXPIUZxk)
@@ -70,3 +77,5 @@ If you use this code in your project, please cite the following paper:
       url={https://arxiv.org/abs/2303.13808},
 }
 ```
+
+Working on improving the LLM intractability, integration and the prompt. :)
